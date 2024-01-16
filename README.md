@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# HELLO EVERYONE HERE IS RUTURAJ !!
-Hi i am Ruturaj jawale currently pursuing my bachelor's degree in computer engineering from Pune <br>
+# HELLO EVERYONE IT'S RUTURAJ !!
+Hi I am Ruturaj jawale currently pursuing my bachelor's degree in computer engineering from Pune <br>
 I am currently learning webdevelopment and machine learning and would like to collaborate with new team for development.<br>
 
 
