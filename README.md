@@ -93,7 +93,7 @@ I am currently learning webdevelopment and machine learning and would like to co
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rutur89&theme=dracula" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rutur89&theme=dracula" alt="GitHubTrophies" />
 </div>
 <br>
 <!-- GitHub Streak Stats -->
