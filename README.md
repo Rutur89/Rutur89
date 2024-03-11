@@ -32,8 +32,17 @@ Hi I am Ruturaj jawale currently pursuing my bachelor's degree in computer engin
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rutur89&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rutur89&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rutur89&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Rutur89&icon=6&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rutur89&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Snake Animation -->
