@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # HELLO EVERYONE IT'S RUTURAJ HERE !!
 # 💫 About Me:
-Hi I am Ruturaj jawale currently pursuing my bachelor's degree in computer engineering from Pune <br>I am currently learning webdevelopment and machine learning and would like to collaborate with new team for development.<br>
+Hi I am Ruturaj jawale currently pursuing my bachelor's degree in computer engineering from Pune <br>I have good knowledge on frontend-devoplment taking Hand on pratice on Machine learning and cloud framework .<br>
 
 
 ## 🌐 Socials:
