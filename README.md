@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # HELLO EVERYONE IT'S RUTURAJ HERE !!
-<h3>Hi I am Ruturaj jawale currently pursuing my bachelor's degree in computer engineering from Pune </h3>
-<h4>I am currently learning webdevelopment and machine learning and would like to collaborate with new team for development.</h4<br>
+<h3>Hi I am Ruturaj jawale currently pursuing my bachelor's degree in computer engineering from Pune </h3><h4>I am currently learning webdevelopment and machine learning and would like to collaborate with new team for development.</h4<br>
 
 
 <!-- Stats Section -->
