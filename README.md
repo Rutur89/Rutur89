@@ -36,7 +36,7 @@ I have good knowledge of **frontend development** and am gaining hands-on experi
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ruturaj-jawale" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub 2-%23121011.svg?logo=github&logoColor=white" />
   </a>
 </p>
 
