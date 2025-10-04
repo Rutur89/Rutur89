@@ -102,7 +102,7 @@ I have good knowledge of **frontend development** and am gaining hands-on experi
   <a href="https://github.com/MediTechdypit" target="_blank">
     <img src="https://img.shields.io/badge/-MediTechdit-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Rutur89" target="_blank">
+  <a href="https://github.com/Ruturaj-jawale" target="_blank">
     <img src="https://img.shields.io/badge/-GitHubOrg-%23121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/RutuTech" target="_blank">
